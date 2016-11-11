@@ -1,5 +1,10 @@
 
 {
-    "name": "xuxiaoming723/xiaominghello"
+    "name": "xuxiaoming723/xiaominghello",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.0.x-dev"
+        }
+    }
 
 }
